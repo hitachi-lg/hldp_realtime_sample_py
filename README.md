@@ -4,7 +4,7 @@ HL-DP real-time sample code python
 ## Before begin
 Please install required package using
 
-`pip3 install -r ./reqquirements.txt`
+`pip3 install -r ./requirements.txt`
 
 
 ## How to run
